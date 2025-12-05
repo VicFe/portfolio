@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  background: #0d0d0d;
+  color: #f2f2f2;
+  line-height: 1.6;
+}
+
+/* HEADER */
+.header {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.profile-img {
+  width: 160px;
+  height: 160px;
+  border-radius: 100%;
+  object-fit: cover;
+  border: 3px solid #ffffff30;
+}
+
+.subtitle {
+  opacity: 0.8;
+}
+
+/* CONTAINER */
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+h2 {
+  margin: 20px 0 10px;
+  color: #8ab4ff;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+/* CARDS */
+.card {
+  background: #1b1b1b;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+/* PROJETOS */
+.project {
+  background: #1b1b1b;
+  padding: 12px;
+  border-radius: 10px;
+  margin: 8px 0;
+}
+
+.project a {
+  color: #8ab4ff;
+  margin-right: 8px;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 20px;
+  opacity: 0.5;
+}
