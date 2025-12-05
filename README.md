@@ -1,6 +1,6 @@
 # 🌐 Meu Portfólio Pessoal
 
-Bem-vindo ao repositório do meu **portfólio pessoal**, um projeto criado para apresentar minha evolução na área de tecnologia, reunir meus trabalhos e registrar tudo o que aprendo ao longo da minha jornada como desenvolvedor.
+Bem-vindo ao repositório do meu **portfólio pessoal** (https://vicfe.github.io/portfolio/), um projeto criado para apresentar minha evolução na área de tecnologia, reunir meus trabalhos e registrar tudo o que aprendo ao longo da minha jornada como desenvolvedor.
 
 ---
 
